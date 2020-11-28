@@ -65,7 +65,7 @@ It is very useful in SEO. It increases the google ranking.
     `<i></i>` <br>
     `<em></em>` -> same as i tag. good for SEO. perfect for screen reader. <br>
     `<small></small>` <br>
-    `<mark></mark>` <br> -> This will highlight the text. <br>
+    `<mark></mark>` -> This will highlight the text. <br>
     `<del></del>` <br>
     `<ins></ins>` <br>
     `<sub></sub>` -> x<sub>3</sub> <br>
