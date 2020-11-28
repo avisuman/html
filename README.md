@@ -487,6 +487,7 @@ It is very useful in SEO. It increases the google ranking.
 # Favicon
 * This can created though online website too. 
     - `<link rel="shortcut icon" href="./images/girl_1.jpg" type="image/x-icon">`
+    ![Favicon Generation Online](https://realfavicongenerator.net/)
 
 # Style in head Tag
 # Script and no script
