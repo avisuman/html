@@ -57,7 +57,7 @@ It is very useful in SEO. It increases the google ranking.
 # Paragraph
 * Paragraph tag removes **Extra Space** and **Line Break** by its own.
 * To use that extra spaces and line break you have to use tag `<pre>content</pre>`, this tag will show your paragraph as it is.This is is used very least.
-* Second alternative is to use `<p>content</p>` with some other tags which will satisfy our end result. Tags are `<br>`
+* Second alternative is to use `<p>content</p>` with some other tags which will satisfy our end result. Tags are `<br>,&nbsp;`
 * There are some tags which is used to manipulate paragraph such as
 
     `<b></b>` <br>
