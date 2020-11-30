@@ -452,7 +452,8 @@ It is very useful in SEO. It increases the google ranking.
     </div>
 </form>
 ```
-* Fieldset is used for grouping withing form
+* **Fieldset** is used for grouping within form.
+* **legends** are used as label for grouped elements.
 ```
 <form action="">
     <fieldset>
@@ -486,7 +487,7 @@ It is very useful in SEO. It increases the google ranking.
 
 # Favicon
 * This can created though online website too. 
-    - `<link rel="shortcut icon" href="./images/girl_1.jpg" type="image/x-icon">`
+    - `<link rel="shortcut icon" href="./images/girl_1.jpg" type="image/x-icon">` <br>
     ![Favicon Generation Online](https://realfavicongenerator.net/)
 
 # Style in head Tag
