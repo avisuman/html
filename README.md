@@ -96,7 +96,7 @@ It is very useful in SEO. It increases the google ranking.
 ```
 # Images
 * This is an empty tag. <br>
-    `<img src="/images/girl_1.jpg" alt="Beautiful girl" width="500px" height="500px">` <br>
+    `<img src="https://github.com/avisuman/html/blob/main/images/banner.jpg" alt="Beautiful girl" width="500px" height="500px">` <br>
     **alt** will be used when your image will broke and it is also good for screen reading.
 # Marquee
 * Now this is depricated from html 5 but browser does support this. <br>
