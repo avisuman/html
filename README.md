@@ -136,18 +136,18 @@ It is very useful in SEO. It increases the google ranking.
     - Always starts with new line.
     - We can set height and width to this.
 
-![Block Elements](images\doc_img\block_element.png)
+![Block Elements](https://github.com/avisuman/html/blob/main/images/doc_img/block_element.png)
 
 * Span is a inline element
     - It always take space according to the content.
     - I didn't starts with new line.
     - We can not set height and width to this.
 
-![Block Elements](images\doc_img\span_tag.png)
+![Block Elements](https://github.com/avisuman/html/blob/main/images/doc_img/span_tag.png)
 
 * List of inline elements
 
-![Block Elements](images\doc_img\inline_elements.png)
+![Block Elements](https://github.com/avisuman/html/blob/main/images/doc_img/inline_elements.png)
 # Iframe
 * It is used to show other's website into your websites.
 * Some websites are restricted to this so you can't show that websites to your website.
@@ -234,18 +234,18 @@ It is very useful in SEO. It increases the google ranking.
     - `<form>`,`<table>`,`<article>` - Clearly defines its content. <br> <br>
 
 **Old Non Semantic Element**
-![Old Non Semantic Element](images\doc_img\semantic.png) <br><br>
+![Old Non Semantic Element](https://github.com/avisuman/html/blob/main/images/doc_img/semantic.png) <br><br>
 **New Semantic Element in HTML5**
-![New Semantic Element in HTML5](images\doc_img\new_html5_semantic.png) <br><br>
+![New Semantic Element in HTML5](https://github.com/avisuman/html/blob/main/images/doc_img/new_html5_semantic.png) <br><br>
 **Difference between HTML 4 and HTML 5**
-![diff between html4 and html5](images\doc_img\html4-html5.png) <br><br>
+![diff between html4 and html5](https://github.com/avisuman/html/blob/main/images/doc_img/html4-html5.png) <br><br>
 **Difference between HTML 4 and HTML 5 code**
-![diff between html4 and html5 code](images\doc_img\code-diff.png)
+![diff between html4 and html5 code](https://github.com/avisuman/html/blob/main/images/doc_img/code-diff.png)
 
 # HTML Image Maps
 * This is very useful when you have to add multiple links to single image. <br>
 **We will write code for below image** <br><br>
-![banner](images\banner.jpg) <br><br>
+![banner](https://github.com/avisuman/html/blob/main/images/banner.jpg) <br><br>
 ```
 <img src="./images/banner.jpg" alt="Banner" usemap="#banner">
 <map name="banner">
